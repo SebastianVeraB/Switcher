@@ -10,6 +10,6 @@
 	"default_title": "My Sample Extension",
 	"default_popup": "banner.html"
 },
-	"permissions": ["tabs"],
+	"permissions": ["tabs"]
 	
 }
